@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Test post, please ignore"
 ---
 
